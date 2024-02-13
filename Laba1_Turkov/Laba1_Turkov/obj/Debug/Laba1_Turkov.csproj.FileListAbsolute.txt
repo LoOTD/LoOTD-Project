@@ -1,0 +1,10 @@
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\bin\Debug\Laba1_Turkov.exe.config
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\bin\Debug\Laba1_Turkov.exe
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\bin\Debug\Laba1_Turkov.pdb
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.csproj.AssemblyReference.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.Form1.resources
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.Properties.Resources.resources
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.csproj.GenerateResource.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.csproj.CoreCompileInputs.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.exe
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Laba1_Turkov\Laba1_Turkov\obj\Debug\Laba1_Turkov.pdb
