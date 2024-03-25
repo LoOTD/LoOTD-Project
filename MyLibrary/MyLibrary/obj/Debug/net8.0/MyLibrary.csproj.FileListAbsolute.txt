@@ -1,0 +1,11 @@
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLibrary\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll

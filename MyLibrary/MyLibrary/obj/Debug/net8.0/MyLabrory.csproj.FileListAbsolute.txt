@@ -1,0 +1,11 @@
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\bin\Debug\net8.0\MyLabrory.deps.json
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\bin\Debug\net8.0\MyLabrory.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\bin\Debug\net8.0\MyLabrory.pdb
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.AssemblyInfoInputs.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.AssemblyInfo.cs
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.csproj.CoreCompileInputs.cache
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\refint\MyLabrory.dll
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\MyLabrory.pdb
+C:\Users\lotd8\OneDrive\Рабочий стол\University\С#\Learning_Work\MyLabrory\MyLabrory\obj\Debug\net8.0\ref\MyLabrory.dll

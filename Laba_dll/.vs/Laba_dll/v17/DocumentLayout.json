@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lotd8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\\u0421#\\Learning_Work\\Laba_dll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC72FFB7-C665-45A3-A388-83D6BBBA4726}|Laba_dll\\Laba_dll.csproj|c:\\users\\lotd8\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\\u0441#\\learning_work\\laba_dll\\laba_dll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC72FFB7-C665-45A3-A388-83D6BBBA4726}|Laba_dll\\Laba_dll.csproj|solutionrelative:laba_dll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20D58A1-3E5D-4383-833E-8C79CCF23D07}|..\\MyLibrary\\MyLibrary\\MyLibrary.csproj|c:\\users\\lotd8\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\\u0441#\\learning_work\\mylibrary\\mylibrary\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lotd8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\\u0421#\\Learning_Work\\Laba_dll\\Laba_dll\\Program.cs",
+              "RelativeDocumentMoniker": "Laba_dll\\Program.cs",
+              "ToolTip": "C:\\Users\\lotd8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\\u0421#\\Learning_Work\\Laba_dll\\Laba_dll\\Program.cs",
+              "RelativeToolTip": "Laba_dll\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:01:26.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\lotd8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\\u0421#\\Learning_Work\\MyLibrary\\MyLibrary\\MyLibrary.cs",
+              "RelativeDocumentMoniker": "..\\MyLibrary\\MyLibrary\\MyLibrary.cs",
+              "ToolTip": "C:\\Users\\lotd8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\\u0421#\\Learning_Work\\MyLibrary\\MyLibrary\\MyLibrary.cs",
+              "RelativeToolTip": "..\\MyLibrary\\MyLibrary\\MyLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:22:54.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
